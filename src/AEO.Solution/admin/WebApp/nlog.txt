@@ -1,0 +1,34 @@
+2020-05-18 08:40:04.7805|FATAL|WebApp.MvcApplication|The view 'Index' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Works/Index.aspx
+~/Views/Works/Index.ascx
+~/Views/Shared/Index.aspx
+~/Views/Shared/Index.ascx
+~/Views/Works/Index.cshtml
+~/Views/Works/Index.vbhtml
+~/Views/Shared/Index.cshtml
+~/Views/Shared/Index.vbhtml
+2020-05-18 08:41:35.0589|FATAL|WebApp.MvcApplication|The view 'Index' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Works/Index.aspx
+~/Views/Works/Index.ascx
+~/Views/Shared/Index.aspx
+~/Views/Shared/Index.ascx
+~/Views/Works/Index.cshtml
+~/Views/Works/Index.vbhtml
+~/Views/Shared/Index.cshtml
+~/Views/Shared/Index.vbhtml
+2020-05-18 09:07:54.0981|FATAL|WebApp.MvcApplication|The view 'Index' or its master was not found or no view engine supports the searched locations. The following locations were searched:
+~/Views/Works/Index.aspx
+~/Views/Works/Index.ascx
+~/Views/Shared/Index.aspx
+~/Views/Shared/Index.ascx
+~/Views/Works/Index.cshtml
+~/Views/Works/Index.vbhtml
+~/Views/Shared/Index.cshtml
+~/Views/Shared/Index.vbhtml
+2020-05-18 14:40:45.0797|FATAL|WebApp.MvcApplication|?????“Unity.Exceptions.InvalidRegistrationException”????
+2020-05-18 14:42:11.7627|FATAL|WebApp.MvcApplication|not found file /ExcelTemplate/Work.xlsx!
+2020-05-18 14:43:52.4450|FATAL|WebApp.MvcApplication|not found file /ExcelTemplate/Work.xlsx!
+2020-05-21 13:58:59.8177|FATAL|WebApp.MvcApplication|Invalid object name 'dbo.Covid19'.
+2020-05-21 14:00:12.8921|FATAL|WebApp.MvcApplication|The controller for path '/Covid19s/GetDataWithDate' was not found or does not implement IController.
+2020-05-21 14:03:05.1661|FATAL|WebApp.MvcApplication|The controller for path '/Covid19s/GetDataWithDate' was not found or does not implement IController.
+2020-06-01 13:08:28.6886|FATAL|WebApp.MvcApplication|d:\projects\aeo\src\AEO.Solution\admin\WebApp\Views\MenuItems\_PopupDetailFormView.cshtml(162): error CS1061: 'System.Web.Mvc.HtmlHelper<WebApp.Models.MenuItem>' does not contain a definition for 'DescriptionFor' and no extension method 'DescriptionFor' accepting a first argument of type 'System.Web.Mvc.HtmlHelper<WebApp.Models.MenuItem>' could be found (are you missing a using directive or an assembly reference?)
